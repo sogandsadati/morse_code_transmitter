@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/FPGA/Final_Project_9627473/Final_project_9627473/top_module.xst" -ofn "D:/FPGA/Final_Project_9627473/Final_project_9627473/top_module.syr" 
+xst -intstyle ise -ifn "D:/FPGA/Final_Project_9627473/Final_project_9627473/top_module.xst" -ofn "D:/FPGA/Final_Project_9627473/Final_project_9627473/top_module.syr" 

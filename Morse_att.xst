@@ -1,0 +1,5 @@
+set -tmpdir "D:/FPGA/Final_Project_9627473/Final_project_9627473/xst/projnav.tmp"
+set -xsthdpdir "D:/FPGA/Final_Project_9627473/Final_project_9627473/xst"
+elaborate
+-ifn Morse_att.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/FPGA/Final_Project_9627473/Final_project_9627473/Morse_att_TB_isim_beh.exe" -prj "D:/FPGA/Final_Project_9627473/Final_project_9627473/Morse_att_TB_beh.prj" "work.Morse_att_TB" 

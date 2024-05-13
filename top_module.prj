@@ -1,0 +1,3 @@
+vhdl work "ps2.vhd"
+vhdl work "morse_att.vhd"
+vhdl work "top_module.vhd"
